@@ -1,2 +1,1 @@
-Authors:\
-Appaji Ambarisha Darbha (ambarisha@gmail.com)}
+Appaji Ambarisha Darbha <ambarisha@gmail.com>
